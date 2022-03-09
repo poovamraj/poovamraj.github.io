@@ -1,5 +1,5 @@
 [{
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target" : { "namespace": "android_app", "package_name": "com.auth0.sample",
-                 "sha256_cert_fingerprints": ["AB:09:CC:AA:C1:7B:20:78:27:8D:E8:13:AE:FA:9D:D0:25:71:40:29:7B:D3:A8:BD:BA:83:14:04:08:47:91:CB"] }
+                 "sha256_cert_fingerprints": ["AB:09:CC:AA:C1:7B:20:78:27:8D:E8:13:AE:FA:9D:D0:25:71:40:29:7B:D3:A8:BD:BA:83:14:04:08:47:91:CB"], "site":"https://auth.poovamraj.com" }
   }]
