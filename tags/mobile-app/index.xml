@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>mobile app on Poovamraj T T</title>
-    <link>https://poovamraj.github.io/tags/mobile-app/</link>
+    <link>https://poovamraj.com/tags/mobile-app/</link>
     <description>Recent content in mobile app on Poovamraj T T</description>
     <image>
-      <url>https://poovamraj.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://poovamraj.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://poovamraj.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://poovamraj.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://poovamraj.github.io/tags/mobile-app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://poovamraj.com/tags/mobile-app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Native &gt; Flutter &gt; React Native</title>
-      <link>https://poovamraj.github.io/blog/flutter/</link>
+      <link>https://poovamraj.com/blog/flutter/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/blog/flutter/</guid>
+      <guid>https://poovamraj.com/blog/flutter/</guid>
       <description>This blog is aimed at people who haven’t heard of flutter and would like to take a shallow dive into it</description>
     </item>
     
     <item>
       <title>Why you can’t make money in consumer applications?</title>
-      <link>https://poovamraj.github.io/blog/consumer-app/</link>
+      <link>https://poovamraj.com/blog/consumer-app/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/blog/consumer-app/</guid>
+      <guid>https://poovamraj.com/blog/consumer-app/</guid>
       <description>The article is written based on intuitions and not data driven. It is based on the heuristics and biases at that time and hence It could be wrong. I would love to learn if there are any pitfalls in this article or any variables that I haven’t considered from you people in the comments</description>
     </item>
     

@@ -2,147 +2,147 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Poovamraj T T</title>
-    <link>https://poovamraj.github.io/tags/</link>
+    <link>https://poovamraj.com/tags/</link>
     <description>Recent content in Tags on Poovamraj T T</description>
     <image>
-      <url>https://poovamraj.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://poovamraj.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://poovamraj.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://poovamraj.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://poovamraj.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://poovamraj.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>jooq</title>
-      <link>https://poovamraj.github.io/tags/jooq/</link>
+      <link>https://poovamraj.com/tags/jooq/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/tags/jooq/</guid>
+      <guid>https://poovamraj.com/tags/jooq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>kotlin</title>
-      <link>https://poovamraj.github.io/tags/kotlin/</link>
+      <link>https://poovamraj.com/tags/kotlin/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/tags/kotlin/</guid>
+      <guid>https://poovamraj.com/tags/kotlin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>spring boot</title>
-      <link>https://poovamraj.github.io/tags/spring-boot/</link>
+      <link>https://poovamraj.com/tags/spring-boot/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/tags/spring-boot/</guid>
+      <guid>https://poovamraj.com/tags/spring-boot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>next.js</title>
-      <link>https://poovamraj.github.io/tags/next.js/</link>
+      <link>https://poovamraj.com/tags/next.js/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/tags/next.js/</guid>
+      <guid>https://poovamraj.com/tags/next.js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>react</title>
-      <link>https://poovamraj.github.io/tags/react/</link>
+      <link>https://poovamraj.com/tags/react/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/tags/react/</guid>
+      <guid>https://poovamraj.com/tags/react/</guid>
       <description></description>
     </item>
     
     <item>
       <title>server-side rendering</title>
-      <link>https://poovamraj.github.io/tags/server-side-rendering/</link>
+      <link>https://poovamraj.com/tags/server-side-rendering/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/tags/server-side-rendering/</guid>
+      <guid>https://poovamraj.com/tags/server-side-rendering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>erlang</title>
-      <link>https://poovamraj.github.io/tags/erlang/</link>
+      <link>https://poovamraj.com/tags/erlang/</link>
       <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/tags/erlang/</guid>
+      <guid>https://poovamraj.com/tags/erlang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>functional programming</title>
-      <link>https://poovamraj.github.io/tags/functional-programming/</link>
+      <link>https://poovamraj.com/tags/functional-programming/</link>
       <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/tags/functional-programming/</guid>
+      <guid>https://poovamraj.com/tags/functional-programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>android</title>
-      <link>https://poovamraj.github.io/tags/android/</link>
+      <link>https://poovamraj.com/tags/android/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/tags/android/</guid>
+      <guid>https://poovamraj.com/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>flutter</title>
-      <link>https://poovamraj.github.io/tags/flutter/</link>
+      <link>https://poovamraj.com/tags/flutter/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/tags/flutter/</guid>
+      <guid>https://poovamraj.com/tags/flutter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hybrid app</title>
-      <link>https://poovamraj.github.io/tags/hybrid-app/</link>
+      <link>https://poovamraj.com/tags/hybrid-app/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/tags/hybrid-app/</guid>
+      <guid>https://poovamraj.com/tags/hybrid-app/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mobile app</title>
-      <link>https://poovamraj.github.io/tags/mobile-app/</link>
+      <link>https://poovamraj.com/tags/mobile-app/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/tags/mobile-app/</guid>
+      <guid>https://poovamraj.com/tags/mobile-app/</guid>
       <description></description>
     </item>
     
     <item>
       <title>react native</title>
-      <link>https://poovamraj.github.io/tags/react-native/</link>
+      <link>https://poovamraj.com/tags/react-native/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/tags/react-native/</guid>
+      <guid>https://poovamraj.com/tags/react-native/</guid>
       <description></description>
     </item>
     
     <item>
       <title>business</title>
-      <link>https://poovamraj.github.io/tags/business/</link>
+      <link>https://poovamraj.com/tags/business/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/tags/business/</guid>
+      <guid>https://poovamraj.com/tags/business/</guid>
       <description></description>
     </item>
     
     <item>
       <title>consumer</title>
-      <link>https://poovamraj.github.io/tags/consumer/</link>
+      <link>https://poovamraj.com/tags/consumer/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/tags/consumer/</guid>
+      <guid>https://poovamraj.com/tags/consumer/</guid>
       <description></description>
     </item>
     

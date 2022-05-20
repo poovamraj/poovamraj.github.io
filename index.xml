@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Poovamraj T T</title>
-    <link>https://poovamraj.github.io/</link>
+    <link>https://poovamraj.com/</link>
     <description>Recent content on Poovamraj T T</description>
     <image>
-      <url>https://poovamraj.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://poovamraj.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://poovamraj.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://poovamraj.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://poovamraj.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://poovamraj.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Make Spring Boot Lean And Mean - Throwing Away Hibernate and Java from Spring Boot</title>
-      <link>https://poovamraj.github.io/blog/lean-spring-boot/</link>
+      <link>https://poovamraj.com/blog/lean-spring-boot/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/blog/lean-spring-boot/</guid>
+      <guid>https://poovamraj.com/blog/lean-spring-boot/</guid>
       <description>Spring Boot is one of the most reliable frameworks in the Java ecosystem. There are great efforts in developing leaner and better frameworks but Spring Boot seems to have great examples and solutions to many common problems faced in backend development. But it is hard to overlook the aged development methodology and impact on productivity.</description>
     </item>
     
     <item>
       <title>How to think in Next.js - Learn the Mental Model</title>
-      <link>https://poovamraj.github.io/blog/next-js-mental-model/</link>
+      <link>https://poovamraj.com/blog/next-js-mental-model/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/blog/next-js-mental-model/</guid>
+      <guid>https://poovamraj.com/blog/next-js-mental-model/</guid>
       <description>Next.js requires a difference in how to think of a solution for a traditional SPA developer who never worked on a Server Side rendered web page. I tried to summarize on the crucial topics that would help a developer understand Next.js and how to build applications using it.</description>
     </item>
     
     <item>
       <title>Code like you are coding in Erlang</title>
-      <link>https://poovamraj.github.io/blog/erlang/</link>
+      <link>https://poovamraj.com/blog/erlang/</link>
       <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/blog/erlang/</guid>
+      <guid>https://poovamraj.com/blog/erlang/</guid>
       <description>Try a functional language it makes you feel like you don’t know anything about coding. Just the same feeling when you try to drive a car first time. It is totally alien and gives you broader perspective.</description>
     </item>
     
     <item>
       <title>Native &gt; Flutter &gt; React Native</title>
-      <link>https://poovamraj.github.io/blog/flutter/</link>
+      <link>https://poovamraj.com/blog/flutter/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/blog/flutter/</guid>
+      <guid>https://poovamraj.com/blog/flutter/</guid>
       <description>This blog is aimed at people who haven’t heard of flutter and would like to take a shallow dive into it</description>
     </item>
     
     <item>
       <title>Why you can’t make money in consumer applications?</title>
-      <link>https://poovamraj.github.io/blog/consumer-app/</link>
+      <link>https://poovamraj.com/blog/consumer-app/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://poovamraj.github.io/blog/consumer-app/</guid>
+      <guid>https://poovamraj.com/blog/consumer-app/</guid>
       <description>The article is written based on intuitions and not data driven. It is based on the heuristics and biases at that time and hence It could be wrong. I would love to learn if there are any pitfalls in this article or any variables that I haven’t considered from you people in the comments</description>
     </item>
     
