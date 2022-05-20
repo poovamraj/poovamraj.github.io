@@ -10,8 +10,12 @@ This blog is aimed at people who haven’t heard of flutter and would like to ta
 
 Many of you already would have heard about this new Google’s framework. It was proposed and the beta was released a few weeks back. It is a framework in development. If you haven’t heard of it, then the next sentence I am going to tell will mostly make you close this post
 
-it is a framework for cross-platform mobile development
-![No!](/no-bird.gif)
+{{< rawhtml >}}
+  <p style="text-align:center;">
+    it is a framework for cross-platform mobile development
+  </p>
+{{< /rawhtml >}}
+![No!](/no-bird.gif#center)
     
 
 As we all know there are a lot of cross-platform development frameworks but none beats the user experience of a natively developed application. A few months back here I was trying to appeal for React Native. But when I took it for a full spin for a fun project. I fell flat on my face.
