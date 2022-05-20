@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>react on Poovamraj T T</title>
+    <link>https://poovamraj.github.io/tags/react/</link>
+    <description>Recent content in react on Poovamraj T T</description>
+    <image>
+      <url>https://poovamraj.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://poovamraj.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://poovamraj.github.io/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to think in Next.js - Learn the Mental Model</title>
+      <link>https://poovamraj.github.io/blog/next-js-mental-model/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://poovamraj.github.io/blog/next-js-mental-model/</guid>
+      <description>Next.js requires a difference in how to think of a solution for a traditional SPA developer who never worked on a Server Side rendered web page. I tried to summarize on the crucial topics that would help a developer understand Next.js and how to build applications using it.</description>
+    </item>
+    
+  </channel>
+</rss>
