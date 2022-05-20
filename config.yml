@@ -1,0 +1,115 @@
+baseURL: https://poovamraj.github.io
+languageCode: en-us
+title: Poovamraj T T
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+disqusShortname: poovamraj
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Poovamraj T T
+  description: "Poovamraj Personal Website"
+  keywords: [Poovamraj, Portfolio]
+  author: Me
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark # dark, light
+  disableThemeToggle: true
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  hideFooter: true
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: /favicon.png
+    favicon16x16: /favicon.png
+    favicon32x32: /favicon-32.png
+
+  label:
+    text: "Poovamraj"
+
+  taxonomies:
+    tags: tags
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Thoughts and Few Words
+    subtitle: "Welcome you curious Homo sapien to my cyber space"
+    imageUrl: /dp_image.jpg
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: 
+    buttons:
+      - name: Opensource
+        url: https://github.com/poovamraj/pinedittextfield
+      - name: Blog
+        url: blog
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/poovamraj"
+    - name: twitter
+      url: "https://twitter.com/poovamraj"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/poovamraj/"
+    - name: RSS
+      url: "index.xml"
+    - name: dev
+      url: "https://dev.to/poovamraj"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - name: Archive
+      url: archives/
+      weight: 5
+    - name: Search
+      url: search/
+      weight: 10
+    - name: Tags
+      url: tags
+      weight: 10
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
