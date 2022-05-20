@@ -17,7 +17,9 @@
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://poovamraj.com/blog/next-js-mental-model/</guid>
-      <description>Next.js requires a difference in how to think of a solution for a traditional SPA developer who never worked on a Server Side rendered web page. I tried to summarize on the crucial topics that would help a developer understand Next.js and how to build applications using it.</description>
+      <description>The most important thing when learning a new framework, especially ones which have a new way of doing things is to understand how to think (or design) solutions to a problem.
+Next.js claims the major issue it fixes on top of React.js is &amp;ldquo;Pre Rendering&amp;rdquo;
+What is Pre Rendering Historically frameworks like JSP used to render the HTML content of the page on the server-side and send the rendered HTML page to the browser.</description>
     </item>
     
   </channel>

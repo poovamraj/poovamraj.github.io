@@ -17,7 +17,7 @@
       <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://poovamraj.com/blog/erlang/</guid>
-      <description>Try a functional language it makes you feel like you don’t know anything about coding. Just the same feeling when you try to drive a car first time. It is totally alien and gives you broader perspective.</description>
+      <description>The most important part of coding I would consider would be abstraction. When designing in Java or other OOPs it is heavily considered to design your code base in such a way that there is proper abstraction or it could cause lot of issues. A single class should have a single responsibility and it should not allow other classes to mess with it. It should only provide the needed information also in a manner that the class could be changed with another implementation without any of the other classes knowing about this.</description>
     </item>
     
   </channel>

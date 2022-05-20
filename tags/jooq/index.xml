@@ -17,7 +17,8 @@
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://poovamraj.com/blog/lean-spring-boot/</guid>
-      <description>Spring Boot is one of the most reliable frameworks in the Java ecosystem. There are great efforts in developing leaner and better frameworks but Spring Boot seems to have great examples and solutions to many common problems faced in backend development. But it is hard to overlook the aged development methodology and impact on productivity.</description>
+      <description>Developing a backend application requires huge stability and data modeling is one of the pieces of software that is toughest to migrate hence choosing a reliable and stable technology is a necessity.
+Spring Boot is one of the most reliable frameworks in the Java ecosystem. There are great efforts in developing leaner and better frameworks but Spring Boot seems to have great examples and solutions to many common problems faced in backend development.</description>
     </item>
     
   </channel>

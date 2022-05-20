@@ -17,7 +17,8 @@
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://poovamraj.com/blog/lean-spring-boot/</guid>
-      <description>Spring Boot is one of the most reliable frameworks in the Java ecosystem. There are great efforts in developing leaner and better frameworks but Spring Boot seems to have great examples and solutions to many common problems faced in backend development. But it is hard to overlook the aged development methodology and impact on productivity.</description>
+      <description>Developing a backend application requires huge stability and data modeling is one of the pieces of software that is toughest to migrate hence choosing a reliable and stable technology is a necessity.
+Spring Boot is one of the most reliable frameworks in the Java ecosystem. There are great efforts in developing leaner and better frameworks but Spring Boot seems to have great examples and solutions to many common problems faced in backend development.</description>
     </item>
     
     <item>
@@ -26,7 +27,9 @@
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://poovamraj.com/blog/next-js-mental-model/</guid>
-      <description>Next.js requires a difference in how to think of a solution for a traditional SPA developer who never worked on a Server Side rendered web page. I tried to summarize on the crucial topics that would help a developer understand Next.js and how to build applications using it.</description>
+      <description>The most important thing when learning a new framework, especially ones which have a new way of doing things is to understand how to think (or design) solutions to a problem.
+Next.js claims the major issue it fixes on top of React.js is &amp;ldquo;Pre Rendering&amp;rdquo;
+What is Pre Rendering Historically frameworks like JSP used to render the HTML content of the page on the server-side and send the rendered HTML page to the browser.</description>
     </item>
     
     <item>
@@ -35,7 +38,7 @@
       <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://poovamraj.com/blog/erlang/</guid>
-      <description>Try a functional language it makes you feel like you don’t know anything about coding. Just the same feeling when you try to drive a car first time. It is totally alien and gives you broader perspective.</description>
+      <description>The most important part of coding I would consider would be abstraction. When designing in Java or other OOPs it is heavily considered to design your code base in such a way that there is proper abstraction or it could cause lot of issues. A single class should have a single responsibility and it should not allow other classes to mess with it. It should only provide the needed information also in a manner that the class could be changed with another implementation without any of the other classes knowing about this.</description>
     </item>
     
     <item>
@@ -44,7 +47,8 @@
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://poovamraj.com/blog/flutter/</guid>
-      <description>This blog is aimed at people who haven’t heard of flutter and would like to take a shallow dive into it</description>
+      <description>This blog is aimed at people who haven’t heard of flutter and would like to take a shallow dive into it
+Many of you already would have heard about this new Google’s framework. It was proposed and the beta was released a few weeks back. It is a framework in development. If you haven’t heard of it, then the next sentence I am going to tell will mostly make you close this post</description>
     </item>
     
     <item>
@@ -53,7 +57,8 @@
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://poovamraj.com/blog/consumer-app/</guid>
-      <description>The article is written based on intuitions and not data driven. It is based on the heuristics and biases at that time and hence It could be wrong. I would love to learn if there are any pitfalls in this article or any variables that I haven’t considered from you people in the comments</description>
+      <description>Disclaimer: The article is written based on intuitions and not data driven. It is based on the heuristics and biases at that time and hence It could be wrong. I would love to learn if there are any pitfalls in this article or any variables that I haven’t considered from you people in the comments
+I recently came across a beautiful startup who make apps for end users. Their apps seem to be generating a good amount of downloads.</description>
     </item>
     
   </channel>
