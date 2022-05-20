@@ -2,7 +2,7 @@
 author: "Poovamraj T T"
 title: "Make Spring Boot Lean And Mean - Throwing Away Hibernate and Java from Spring Boot"
 date: "2021-05-17"
-description: "Spring Boot is one of the most reliable frameworks in the Java ecosystem. There are great efforts in developing leaner and better frameworks but Spring Boot seems to have great examples and solutions to many common problems faced in backend development. But it is hard to overlook the aged development methodology and impact on productivity."
+description: 
 tags: ["spring boot", "jooq", "kotlin"]
 ShowToc: false
 ---

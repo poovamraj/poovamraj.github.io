@@ -2,7 +2,7 @@
 author: "Poovamraj T T"
 title: "How to think in Next.js - Learn the Mental Model"
 date: "2021-05-08"
-description: "Next.js requires a difference in how to think of a solution for a traditional SPA developer who never worked on a Server Side rendered web page. I tried to summarize on the crucial topics that would help a developer understand Next.js and how to build applications using it."
+description:
 tags: ["next.js", "react", "server-side rendering"]
 ShowToc: false
 ---

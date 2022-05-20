@@ -2,7 +2,7 @@
 author: "Poovamraj T T"
 title: "Why you can’t make money in consumer applications?"
 date: "2018-01-15"
-description: "The article is written based on intuitions and not data driven. It is based on the heuristics and biases at that time and hence It could be wrong. I would love to learn if there are any pitfalls in this article or any variables that I haven’t considered from you people in the comments"
+description: 
 tags: ["mobile app", "consumer", "business"]
 ShowToc: true
 ---

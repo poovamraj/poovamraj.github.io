@@ -2,7 +2,7 @@
 author: "Poovamraj T T"
 title: "Native > Flutter > React Native"
 date: "2018-03-12"
-description: "This blog is aimed at people who haven’t heard of flutter and would like to take a shallow dive into it"
+description: 
 tags: ["mobile app", "hybrid app", "flutter", "react native", "android"]
 ShowToc: true
 ---

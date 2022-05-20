@@ -2,7 +2,7 @@
 author: "Poovamraj T T"
 title: "Code like you are coding in Erlang"
 date: "2018-11-11"
-description: "Try a functional language it makes you feel like you don’t know anything about coding. Just the same feeling when you try to drive a car first time. It is totally alien and gives you broader perspective."
+description: 
 tags: ["erlang", "functional programming"]
 ShowToc: true
 ---
