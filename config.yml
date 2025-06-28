@@ -41,7 +41,6 @@ params:
   showtoc: false
   tocopen: false
   hideFooter: true
-  social: true
 
   assets:
     # disableHLJS: true # to disable highlight.js
