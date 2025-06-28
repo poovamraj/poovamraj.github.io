@@ -5,61 +5,61 @@
     <link>https://poovamraj.com/blog/</link>
     <description>Recent content in Blogs on Poovamraj T T</description>
     <image>
+      <title>Poovamraj T T</title>
       <url>https://poovamraj.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://poovamraj.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://poovamraj.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://poovamraj.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hard Lessons as a Engineering Manager</title>
+      <link>https://poovamraj.com/blog/learnings/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://poovamraj.com/blog/learnings/</guid>
+      <description>&lt;p&gt;Writing after a long time, let&amp;rsquo;s see if this works!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Make Spring Boot Lean And Mean - Throwing Away Hibernate and Java from Spring Boot</title>
       <link>https://poovamraj.com/blog/lean-spring-boot/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://poovamraj.com/blog/lean-spring-boot/</guid>
-      <description>Developing a backend application requires huge stability and data modeling is one of the pieces of software that is toughest to migrate hence choosing a reliable and stable technology is a necessity.
-Spring Boot is one of the most reliable frameworks in the Java ecosystem. There are great efforts in developing leaner and better frameworks but Spring Boot seems to have great examples and solutions to many common problems faced in backend development.</description>
+      <description>&lt;p&gt;Developing a backend application requires huge stability and data modeling is one of the pieces of software that is toughest to migrate hence choosing a reliable and stable technology is a necessity.&lt;/p&gt;
+&lt;p&gt;Spring Boot is one of the most reliable frameworks in the Java ecosystem. There are great efforts in developing leaner and better frameworks but Spring Boot seems to have great examples and solutions to many common problems faced in backend development. But it is hard to overlook the aged development methodology and impact on productivity.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How to think in Next.js - Learn the Mental Model</title>
       <link>https://poovamraj.com/blog/next-js-mental-model/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://poovamraj.com/blog/next-js-mental-model/</guid>
-      <description>The most important thing when learning a new framework, especially ones which have a new way of doing things is to understand how to think (or design) solutions to a problem.
-Next.js claims the major issue it fixes on top of React.js is &amp;ldquo;Pre Rendering&amp;rdquo;
-What is Pre Rendering Historically frameworks like JSP used to render the HTML content of the page on the server-side and send the rendered HTML page to the browser.</description>
+      <description>&lt;p&gt;The most important thing when learning a new framework, especially ones which have a new way of doing things is to understand how to think (or design) solutions to a problem.&lt;/p&gt;
+&lt;p&gt;Next.js claims the major issue it fixes on top of React.js is &amp;ldquo;Pre Rendering&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;what-is-pre-rendering&#34;&gt;What is Pre Rendering&lt;/h2&gt;
+&lt;p&gt;Historically frameworks like JSP used to render the HTML content of the page on the server-side and send the rendered HTML page to the browser. This is in contrast to the approach used in modern frameworks like React.js where the web page first loads the JS and then it renders all the required HTML elements on the client (read it as the browser) side&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Code like you are coding in Erlang</title>
       <link>https://poovamraj.com/blog/erlang/</link>
       <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://poovamraj.com/blog/erlang/</guid>
-      <description>The most important part of coding I would consider would be abstraction. When designing in Java or other OOPs it is heavily considered to design your code base in such a way that there is proper abstraction or it could cause lot of issues. A single class should have a single responsibility and it should not allow other classes to mess with it. It should only provide the needed information also in a manner that the class could be changed with another implementation without any of the other classes knowing about this.</description>
+      <description>&lt;p&gt;The most important part of coding I would consider would be abstraction. When designing in Java or other OOPs it is heavily considered to design your code base in such a way that there is proper abstraction or it could cause lot of issues. A single class should have a single responsibility and it should not allow other classes to mess with it. It should only provide the needed information also in a manner that the class could be changed with another implementation without any of the other classes knowing about this. The next important part would be for the developer to know at what STATE the program is. If the program has moved from STATE A to STATE B this should be because the developer wanted it to happen not because of some side effect. This exactly what happens when we allow mutation. There will be millions of states our program can enter into without our own knowledge. This will make it hard to track down bugs since we wont even know how it moved from one state to another (ReactJS with Redux solves this same problem where each of the state the application goes into is tracked)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Native &gt; Flutter &gt; React Native</title>
       <link>https://poovamraj.com/blog/flutter/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://poovamraj.com/blog/flutter/</guid>
-      <description>This blog is aimed at people who haven’t heard of flutter and would like to take a shallow dive into it
-Many of you already would have heard about this new Google’s framework. It was proposed and the beta was released a few weeks back. It is a framework in development. If you haven’t heard of it, then the next sentence I am going to tell will mostly make you close this post</description>
+      <description>&lt;p&gt;This blog is aimed at people who haven’t heard of flutter and would like to take a shallow dive into it&lt;/p&gt;
+&lt;p&gt;Many of you already would have heard about this new Google’s framework. It was proposed and the beta was released a few weeks back. It is a framework in development. If you haven’t heard of it, then the next sentence I am going to tell will mostly make you close this post&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Why you can’t make money in consumer applications?</title>
       <link>https://poovamraj.com/blog/consumer-app/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://poovamraj.com/blog/consumer-app/</guid>
-      <description>Disclaimer: The article is written based on intuitions and not data driven. It is based on the heuristics and biases at that time and hence It could be wrong. I would love to learn if there are any pitfalls in this article or any variables that I haven’t considered from you people in the comments
-I recently came across a beautiful startup who make apps for end users. Their apps seem to be generating a good amount of downloads.</description>
+      <description>&lt;p&gt;Disclaimer: The article is written based on intuitions and not data driven. It is based on the heuristics and biases at that time and hence It could be wrong. I would love to learn if there are any pitfalls in this article or any variables that I haven’t considered from you people in the comments&lt;/p&gt;
+&lt;p&gt;I recently came across a beautiful startup who make apps for end users. Their apps seem to be generating a good amount of downloads. As I ventured deep into their customer feedback and revenue model. I figured they give apps to users at free of cost and after the app generates a good amount of users, they try to make certain features premium.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

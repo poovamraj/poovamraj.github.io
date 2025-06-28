@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>react native on Poovamraj T T</title>
+    <title>React Native on Poovamraj T T</title>
     <link>https://poovamraj.com/tags/react-native/</link>
-    <description>Recent content in react native on Poovamraj T T</description>
+    <description>Recent content in React Native on Poovamraj T T</description>
     <image>
+      <title>Poovamraj T T</title>
       <url>https://poovamraj.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://poovamraj.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://poovamraj.com/tags/react-native/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://poovamraj.com/tags/react-native/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Native &gt; Flutter &gt; React Native</title>
       <link>https://poovamraj.com/blog/flutter/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://poovamraj.com/blog/flutter/</guid>
-      <description>This blog is aimed at people who haven’t heard of flutter and would like to take a shallow dive into it
-Many of you already would have heard about this new Google’s framework. It was proposed and the beta was released a few weeks back. It is a framework in development. If you haven’t heard of it, then the next sentence I am going to tell will mostly make you close this post</description>
+      <description>&lt;p&gt;This blog is aimed at people who haven’t heard of flutter and would like to take a shallow dive into it&lt;/p&gt;
+&lt;p&gt;Many of you already would have heard about this new Google’s framework. It was proposed and the beta was released a few weeks back. It is a framework in development. If you haven’t heard of it, then the next sentence I am going to tell will mostly make you close this post&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

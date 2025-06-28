@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>erlang on Poovamraj T T</title>
+    <title>Erlang on Poovamraj T T</title>
     <link>https://poovamraj.com/tags/erlang/</link>
-    <description>Recent content in erlang on Poovamraj T T</description>
+    <description>Recent content in Erlang on Poovamraj T T</description>
     <image>
+      <title>Poovamraj T T</title>
       <url>https://poovamraj.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://poovamraj.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Nov 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://poovamraj.com/tags/erlang/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://poovamraj.com/tags/erlang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code like you are coding in Erlang</title>
       <link>https://poovamraj.com/blog/erlang/</link>
       <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://poovamraj.com/blog/erlang/</guid>
-      <description>The most important part of coding I would consider would be abstraction. When designing in Java or other OOPs it is heavily considered to design your code base in such a way that there is proper abstraction or it could cause lot of issues. A single class should have a single responsibility and it should not allow other classes to mess with it. It should only provide the needed information also in a manner that the class could be changed with another implementation without any of the other classes knowing about this.</description>
+      <description>&lt;p&gt;The most important part of coding I would consider would be abstraction. When designing in Java or other OOPs it is heavily considered to design your code base in such a way that there is proper abstraction or it could cause lot of issues. A single class should have a single responsibility and it should not allow other classes to mess with it. It should only provide the needed information also in a manner that the class could be changed with another implementation without any of the other classes knowing about this. The next important part would be for the developer to know at what STATE the program is. If the program has moved from STATE A to STATE B this should be because the developer wanted it to happen not because of some side effect. This exactly what happens when we allow mutation. There will be millions of states our program can enter into without our own knowledge. This will make it hard to track down bugs since we wont even know how it moved from one state to another (ReactJS with Redux solves this same problem where each of the state the application goes into is tracked)&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

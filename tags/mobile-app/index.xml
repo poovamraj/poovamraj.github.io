@@ -1,35 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>mobile app on Poovamraj T T</title>
+    <title>Mobile App on Poovamraj T T</title>
     <link>https://poovamraj.com/tags/mobile-app/</link>
-    <description>Recent content in mobile app on Poovamraj T T</description>
+    <description>Recent content in Mobile App on Poovamraj T T</description>
     <image>
+      <title>Poovamraj T T</title>
       <url>https://poovamraj.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://poovamraj.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://poovamraj.com/tags/mobile-app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://poovamraj.com/tags/mobile-app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Native &gt; Flutter &gt; React Native</title>
       <link>https://poovamraj.com/blog/flutter/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://poovamraj.com/blog/flutter/</guid>
-      <description>This blog is aimed at people who haven’t heard of flutter and would like to take a shallow dive into it
-Many of you already would have heard about this new Google’s framework. It was proposed and the beta was released a few weeks back. It is a framework in development. If you haven’t heard of it, then the next sentence I am going to tell will mostly make you close this post</description>
+      <description>&lt;p&gt;This blog is aimed at people who haven’t heard of flutter and would like to take a shallow dive into it&lt;/p&gt;
+&lt;p&gt;Many of you already would have heard about this new Google’s framework. It was proposed and the beta was released a few weeks back. It is a framework in development. If you haven’t heard of it, then the next sentence I am going to tell will mostly make you close this post&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Why you can’t make money in consumer applications?</title>
       <link>https://poovamraj.com/blog/consumer-app/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://poovamraj.com/blog/consumer-app/</guid>
-      <description>Disclaimer: The article is written based on intuitions and not data driven. It is based on the heuristics and biases at that time and hence It could be wrong. I would love to learn if there are any pitfalls in this article or any variables that I haven’t considered from you people in the comments
-I recently came across a beautiful startup who make apps for end users. Their apps seem to be generating a good amount of downloads.</description>
+      <description>&lt;p&gt;Disclaimer: The article is written based on intuitions and not data driven. It is based on the heuristics and biases at that time and hence It could be wrong. I would love to learn if there are any pitfalls in this article or any variables that I haven’t considered from you people in the comments&lt;/p&gt;
+&lt;p&gt;I recently came across a beautiful startup who make apps for end users. Their apps seem to be generating a good amount of downloads. As I ventured deep into their customer feedback and revenue model. I figured they give apps to users at free of cost and after the app generates a good amount of users, they try to make certain features premium.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

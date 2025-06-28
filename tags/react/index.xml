@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>react on Poovamraj T T</title>
+    <title>React on Poovamraj T T</title>
     <link>https://poovamraj.com/tags/react/</link>
-    <description>Recent content in react on Poovamraj T T</description>
+    <description>Recent content in React on Poovamraj T T</description>
     <image>
+      <title>Poovamraj T T</title>
       <url>https://poovamraj.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://poovamraj.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://poovamraj.com/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://poovamraj.com/tags/react/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to think in Next.js - Learn the Mental Model</title>
       <link>https://poovamraj.com/blog/next-js-mental-model/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://poovamraj.com/blog/next-js-mental-model/</guid>
-      <description>The most important thing when learning a new framework, especially ones which have a new way of doing things is to understand how to think (or design) solutions to a problem.
-Next.js claims the major issue it fixes on top of React.js is &amp;ldquo;Pre Rendering&amp;rdquo;
-What is Pre Rendering Historically frameworks like JSP used to render the HTML content of the page on the server-side and send the rendered HTML page to the browser.</description>
+      <description>&lt;p&gt;The most important thing when learning a new framework, especially ones which have a new way of doing things is to understand how to think (or design) solutions to a problem.&lt;/p&gt;
+&lt;p&gt;Next.js claims the major issue it fixes on top of React.js is &amp;ldquo;Pre Rendering&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;what-is-pre-rendering&#34;&gt;What is Pre Rendering&lt;/h2&gt;
+&lt;p&gt;Historically frameworks like JSP used to render the HTML content of the page on the server-side and send the rendered HTML page to the browser. This is in contrast to the approach used in modern frameworks like React.js where the web page first loads the JS and then it renders all the required HTML elements on the client (read it as the browser) side&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
