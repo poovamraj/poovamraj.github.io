@@ -27,12 +27,10 @@
     margin-inline-start: auto;
 }
 
-.social-icons {
-    padding: 12px 0;
-}
 
-.social-icons a:not(:last-of-type) {
-    margin-inline-end: 12px;
+.social-icons a {
+    display: inline-flex;
+    padding: 10px;
 }
 
 .social-icons a svg {
@@ -65,13 +63,4 @@ pre {
 div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
-}
-
-img[src$='#center']
-{
-    display: block;
-    margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
-                            whatever floats your boat, but keep the
-                            horizontal 'auto' for this to work */
-    /* whatever else styles you fancy here */
 }
