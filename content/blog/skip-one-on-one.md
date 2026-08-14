@@ -46,9 +46,9 @@ There is a good chance you might not meet your skip at a frequent interval. Ther
 Being well prepared for your Skip level 1:1 is very important. 
 - Have atleast 3 good questions you have prepared
 - If you have a request to ask or sharing a bigger idea for the organisation
- - Try to be aligned with your manager on the ask
- - Be very prepared to answer the questions they will have. Play mental chess on the questions they might ask and how you are prepared to answer them
- - Remember they will be coming into it without context, Try to provide them context they need
+    - Try to be aligned with your manager on the ask
+    - Be very prepared to answer the questions they will have. Play mental chess on the questions they might ask and how you are prepared to answer them
+    - Remember they will be coming into it without context, Try to provide them context they need
 
 ## Generic Questions
 
